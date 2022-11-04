@@ -11,11 +11,17 @@ a youtube course: **Jasmine Unit Testing Framework**
 > _I guess they will be turned into individual branches, starting with no. 2_
 
 1. Why Jasmine for Unit Testing. Introduction to Jasmine Framework for JavaScript Applications
+
+### New Branch: code without Jasmine testing (vanilla js)
+
 2. Create Simple Calculator Program & perform add, subtract, multiply & divide methods
 3. Build the Calculator Program UI and capture the input value from the Textbox
 4. Extract numbers & operator from calculator input with Split & match string methods
 5. Calculate the result using switch case and update the result in the DOM
 6. Improving Errors for the Calculator and update the error message in the DOM
+
+### New Branch: Let's start with Jasmine
+
 7. Setup Jasmine Testing Framework for Unit Testing in the Calculator program
 8. Understanding the Testing File Naming Conventions and the concept of Suite
 9. Create our Test Suite in the calculator spec file using describe method
